@@ -1,0 +1,11 @@
+{
+    "nombre": "Andres Felipe Aristizabal",
+    "edad": 21,
+    "carrera": "Desarrollo de Software",
+    "semestre": 3,
+    "gustos": ["Rugby", "Gym", "Comer", "UFC"],
+    "noGustos": ["Comunismo",  "Ruido fuerte"],
+    "foto": "https://imag.bonviveur.com/emplatado-final-de-las-salchipapas.jpg"
+}
+
+  
