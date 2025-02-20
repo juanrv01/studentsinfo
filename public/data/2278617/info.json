@@ -1,0 +1,11 @@
+{
+    "nombre": "Victoria Liceth Mulcue Mulcue",
+    "edad": 20,
+    "carrera": "Tecnologia En Desarrollo De Software",
+    "semestre": 6,
+    "gustos": ["Lectura", "Dormir", "Ver series", "Escuchar musica"],
+    "noGustos": ["Despertarse temprano", "gomitas", "Cocinar", "Peliculas de accion"],
+    "foto": "https://i.pinimg.com/736x/dc/ee/50/dcee50bef07787441da7a53c2f7f5f30.jpg"
+}
+
+  
