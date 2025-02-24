@@ -1,0 +1,9 @@
+{
+    "nombre": "Juan Pablo Charry Ramirez",
+    "edad": 21,
+    "carrera": "Ingenieria en sistemas",
+    "semestre": 5,
+    "gustos": ["Videojuegos", "CrossFit", "Escuchar musica", "Cocinar"],
+    "noGustos": ["Impuntualidad", "Calor", "Comida muy empalagosa", "Ruidos agudos"],
+    "foto": "https://images.augustman.com/wp-content/uploads/sites/5/2024/04/30204522/290751281_1367701383707036_63662777490355663_n.jpeg"
+}
