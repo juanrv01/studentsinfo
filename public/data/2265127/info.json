@@ -1,0 +1,12 @@
+{
+    "nombre": "Juan Fernando Cardona",
+    "edad": 21,
+    "carrera": "Tecnologia en Desarrollo de Software",
+    "semestre": 6,
+    "gustos": ["Juegos", "Cine", "Musica", "Dormir"],
+    "noGustos": ["Despertarse temprano", "Higado", "Leer", "Tareas largas"],
+    "foto": "https://i.blogs.es/0fd60e/golden-retriever/500_333.jpeg"
+}
+
+  
+  
