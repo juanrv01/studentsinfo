@@ -1,0 +1,9 @@
+{
+    "nombre": "Juan Sebastian Hurtado Batioja ",
+    "edad": 24,
+    "carrera": "Desarrollo de software",
+    "semestre": 5,
+    "gustos": ["Futbol", "Cine", "Musica", "Caminar"],
+    "noGustos": ["Despertarse temprano", "dulce", "las arañas"],
+    "foto": "https://vicebienestar.univalle.edu.co/media/k2/items/cache/"
+}
